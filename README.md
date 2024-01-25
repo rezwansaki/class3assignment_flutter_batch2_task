@@ -9,7 +9,6 @@ This is an assignment for 'flutter batch2 - influxdev'. Just simple flutter proj
     <li>1. flutter clean</li>
     <li>2. flutter pub get</li>
     <li>3. flutter run</li>
-Note: Internet required.
 </ul>
 
 
