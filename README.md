@@ -46,8 +46,6 @@ https://www.alinsworld.com/
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
 Flutter is an open source framework by Google.
 
 <p align="center"><a href="https://flutter.dev/" target="_blank"><img src="flutter_logo.svg" width="200"></a></p>
